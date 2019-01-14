@@ -1,0 +1,16 @@
+{
+    "name": "root/api-backend",
+    "require": {
+        "slim/slim": "2.*"
+    },
+    "autoload":{
+	 "classmap":["piramide-uploader"]
+    },
+
+    "authors": [
+        {
+            "name": "Jael Alexander Rivera Oviedo",
+            "email": "jrivera@koghi.com"
+        }
+    ]
+}
